@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am 42 Paris student actively looking for a Workship 😄⭐ I'm currently working on a Devops project and on a self replicant program.
-I am well rounded in Bash, C language, C++, Javascript/Typescript, Git, Docker and other technologies and frameworks.
+I am 42 Paris student actively looking for a Workship 😄⭐<br> I am currently working on a Devops project and on a self replicant program.<br> I love challenges and I am always eager to learn new things<br>
+I am well rounded in Bash, C language, C++, Javascript/Typescript, Git, Docker and other technologies and frameworks stack.<br>
 You can reach me on my [Linkedin page 🔗](https://www.linkedin.com/in/pierre-gb-324720141/?skipRedirect=true)
 
