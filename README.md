@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm [Pedro 🔗](https://www.linkedin.com/in/pierre-gb-324720141/?skipRedirect=true), a 42 Paris student actively looking for a Workship 😄⭐<br><br> I am currently working on a Devops project and on a self replicant program.<br><br> I love challenges and I am always eager to learn new things<br><br>
+I'm [Pedro 🔗](https://www.linkedin.com/in/pierre-gb-324720141/?skipRedirect=true), a 42 Paris student actively looking for a Workship 😄⭐<br><br>
+I am currently working on a [Devops project](https://github.com/PedrovVvASQUEZ/42_INCEPTION_OF_THINGS) and on a [self replicant program](https://github.com/PedrovVvASQUEZ?tab=repositories).<br><br>
+I love challenges and I am always eager to learn new things<br><br>
 Well rounded in Bash, C language, C++, Javascript/Typescript, Git, Docker and other technologies and frameworks stack.<br><br><br>
 
 Fun facts :<br>
