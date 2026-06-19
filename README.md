@@ -18,7 +18,7 @@ I am 42 Paris student actively looking for a Workship 😄⭐<br><br> I am curre
 Well rounded in Bash, C language, C++, Javascript/Typescript, Git, Docker and other technologies and frameworks stack.<br><br>
 You can reach me on my [Linkedin page 🔗](https://www.linkedin.com/in/pierre-gb-324720141/?skipRedirect=true)<br><br><br>
 
-Fun facts :<br><br>
+Fun facts :<br>
   - I don't drink coffee nor redbull
   - My favourite movie genre is futuristic Sci-Fi
   - I'm gonna get a bike
