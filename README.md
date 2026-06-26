@@ -20,7 +20,7 @@ I love challenges and I am always eager to learn new things. In the futur I want
 Well rounded in Bash, C language, C++, Javascript/Typescript, Git, Docker as well as others technologies and frameworks.<br><br><br>
 
 Fun facts :<br>
-  - I don't drink coffee nor redbull
+  - I neither drink coffee nor redbull
   - My favourite movie genre is futuristic Sci-Fi
   - I'm gonna get a bike
   - Hobbies : Dj, Gym, Fishing 🐟
